@@ -1,4 +1,4 @@
-Hello!
+## Hello!
 
 I'm a 4th year CS student at the University of Waterloo 🇨🇦
 
